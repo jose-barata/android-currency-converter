@@ -4,7 +4,7 @@ Built out of curiosity and necessity to an upcoming holiday trip
 
 Simple currency converter for android
 
-### Build info
+## Build info
 
 ```sh
 compileSdkVersion 29
