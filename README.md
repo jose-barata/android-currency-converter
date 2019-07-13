@@ -1,4 +1,4 @@
-# android-currency-converter
+# Android currency converter
 
 <img src="demo.gif" width="30%">
 
