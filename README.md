@@ -1,6 +1,7 @@
 # Android currency converter
-
+<p align="center">
 <img src="demo.gif" width="30%">
+</p>
 
 * Built out of curiosity and necessity to an upcoming holiday trip
 * Simple currency converter for android
